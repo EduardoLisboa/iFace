@@ -8,6 +8,6 @@ public class Usuario {
     int idade;
     String aniversario;
 
-
+    Boolean ativo;
 
 }
